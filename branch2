@@ -2,4 +2,9 @@ test - branch 2 for merge
 
 
 
+<<<<<<< HEAD
 test conflict === master branch change.
+=======
+
+<abcd>
+>>>>>>> test-branch
